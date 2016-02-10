@@ -1,2 +1,2 @@
-# datatoolbox
-Created for my Data Analyst's Toolbox class.
+# datasciencecoursera
+Created for my Data Scientist's Toolbox class.
